@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(165, 68, 104);
+}
+
+main {
+    transition-duration: 1s;
+    box-shadow: 3px 3px 10px 0px black;
+    margin: auto;
+    margin-top: 40px;
+    width: 400px;
+    height: 500px;
+    background-image: url(imagens/papel.jpg);
+}
+
+h1 {
+    font-family: 'Arizonia', cursive;
+    padding: 40px 33px;
+    font-size: 30px;
+    text-align: center;
+}
+
+main > p {
+    font-family: 'Grape Nuts', cursive;
+    font-size: 15px;
+    padding: 0px 40px;
+    padding-bottom: 5px;
+    text-align: justify;
+}
+
+p#leo {
+    font-size: 20px;
+    text-align: right;
+}
+
+img#urso {
+    position: absolute;
+    left: 0px;
+    top: 392px;
+
+}
+
+img#minio {
+    position: absolute;
+    margin: auto;
+    left: 407px;
+    top: 4px;
+}

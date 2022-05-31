@@ -1,0 +1,17 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(165, 68, 104);
+}
+
+img#carta {
+    transition-duration: 1s;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: 3px 3px 10px 0px black;
+}
