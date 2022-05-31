@@ -42,14 +42,13 @@ p#leo {
 
 img#urso {
     position: absolute;
-    left: 0px;
-    top: 392px;
-
+    left: -57px;
+    top: 388px;
 }
 
 img#minio {
     position: absolute;
     margin: auto;
-    left: 407px;
+    left: 285px;
     top: 4px;
 }
